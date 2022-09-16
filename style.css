@@ -9,6 +9,7 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     
+    
 }
 .about-head a{
     text-decoration: none;
@@ -25,5 +26,37 @@ body{
     border: none;
     margin-right: -150px;
     color: white;
+    cursor: pointer;
 
+}
+.shoes-bg{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/646cc0100865101.5f11e77287e3b.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    margin-top: -55px;
+}
+.shoes-bg-head{
+    font-size: 70px;
+    padding-top: 100px;
+}
+.shoes-bg-para{
+    font-size: 20px;
+    color: white;
+    margin-top: -50px;
+}
+.shoes-bg-btn{
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+    font-size: 25px;
+    background: rgb(218, 47, 47);
+    color: white;
+    font-weight: 800;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.shoes-bg-btn:hover{
+    background-color: tomato;
 }
