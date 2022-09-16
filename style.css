@@ -129,3 +129,20 @@ body{
     margin-top: -20px;
     margin-left: 130px;
 }
+.last-part-btn{
+    padding: 15px 30px 15px 30px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: none;
+    background: rgb(218, 47, 47);
+    color: white;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.last-part-btn:hover{
+    background-color: tomato;
+}
+.last-part{
+    margin-left: 130px;
+    margin-bottom: 100px;
+}
