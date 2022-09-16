@@ -1,0 +1,29 @@
+body{
+    margin: auto;
+}
+.top-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.about-head a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+    color: black;
+    border-bottom: 1px solid black;
+}
+.get-off{
+    padding: 15px 35px 15px 35px;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color: rgb(218, 47, 47);
+    border: none;
+    margin-right: -150px;
+    color: white;
+
+}
