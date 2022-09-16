@@ -29,6 +29,9 @@ body{
     cursor: pointer;
 
 }
+.get-off:hover{
+    background-color: tomato;
+}
 .shoes-bg{
     background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/646cc0100865101.5f11e77287e3b.png);
     height: 700px;
@@ -59,4 +62,70 @@ body{
 }
 .shoes-bg-btn:hover{
     background-color: tomato;
+}
+.middel-head{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.run{
+    font-size: 20px;
+    border-bottom: 1px solid rgb(180, 170, 170);
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    width: 1335px;
+    margin-left: 100px;
+}
+.run a{
+    text-decoration: none;
+    color: rgb(73, 68, 68);
+    margin-left: 20px;
+}
+.run a:hover{
+    color: tomato;
+}
+.photo-album{
+    display: flex;
+    border: 1px solid tomato;
+    margin-top: -80px;
+    padding-left: 95px;
+    border: none;
+}
+.shoes-fram{
+    border: 1px solid black;
+    margin-left: 20px;
+    border: none;
+    
+    
+}
+.shoes-btn button{
+    padding: 15px 30px 15px 30px;
+    background-color: rgb(218, 47, 47);
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    font-weight: 900;
+    margin-left: 110px;
+    display: none;
+      
+}
+.shoes-btn button:hover{
+    background-color: tomato;
+}
+.shoes-fram:hover button{
+    display: block;
+}
+.receive-head{
+    font-size: 40px;
+    font-weight: 100;
+    margin-top: 200px;
+    margin-left: 130px;
+}
+.receive-para{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -20px;
+    margin-left: 130px;
 }
